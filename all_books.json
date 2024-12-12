@@ -1,0 +1,22 @@
+[
+    {
+        "title": "IELTS",
+        "author": "Makkar",
+        "isbn": 28591,
+        "year": 200,
+        "price": 110,
+        "quantity": 1,
+        "bookAddedAt": "12-12-2024 19:44:03",
+        "bookLastUpdatedAt": "12-12-2024 21:24:49"
+    },
+    {
+        "title": "Think Grow",
+        "author": "Peter",
+        "isbn": 86234,
+        "year": 2005,
+        "price": 110,
+        "quantity": 2,
+        "bookAddedAt": "12-12-2024 21:22:29",
+        "bookLastUpdatedAt": ""
+    }
+]
